@@ -1,0 +1,7 @@
+[ReflowName , ReflowUnit , ReflowDataType]
+['TimeFromStart', 's', 'f'] 
+['reflow_Temp_raw', '°C', 'f'] 
+['reflow_Temp_filtered', '°C', 'f'] 
+['reflow_ref', '°C', 'f'] 
+['reflow_duty', 'None', 'f'] 
+['reflow_status', 's', 'I'] 
