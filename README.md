@@ -2,27 +2,27 @@
 
 ## Arquivos
 
-Na pasta 01 PCB encontram-se os arquivos altium da PCB.
+- Na pasta **01 PCB** encontram-se os arquivos altium da PCB.
 
-Na pasta 03 Interface encontra-se o executável para interface gráfica, e também o código fonte em python.
+- Na pasta **03 Interface** encontra-se o executável para interface gráfica, e também o código fonte em python.
 
-Na pasta 04 ArduinoCode encontra-se o arquivo para gravação do arduino, lá tem os padrões de curva de reflow e parâmetros dos controladores que podem ser alterados.
+- Na pasta **04 ArduinoCode** encontra-se o arquivo para gravação do arduino, lá tem os padrões de curva de reflow e parâmetros dos controladores que podem ser alterados.
 
-Na pasta 05 Doc, uma breve apresentação.
+- Na pasta **05 Doc**, uma breve apresentação.
 
 # Usando o forno
 
 Dois métodos para utilizar
 
-## Sem interface grafica
-Usando os botões liga e desliga na frente do forno pode ser iniciado o processo de reflow, inicie o processo com o botão START, aguarde o Buzzer sinalizar abra o forno e espere esfriar.
+## Sem interface gráfica
+- Usando os botões liga e desliga na frente do forno pode ser iniciado o processo de reflow, inicie o processo com o botão START, aguarde o Buzzer sinalizar abra o forno e espere esfriar.
 
-## Com interface grafica
+## Com interface gráfica
 
-Liste as portas, e veja em qual está o arduino (EX:COM3).
-Selecione a porta e abra a conexão (EX:COM3).
-Inicie a aquisição de dados e de start no processo de reflow
-Aguarde o Buzzer sinalizar, abra o forno e espere esfriar.
+- Liste as portas, e veja em qual está o arduino (EX:COM3).
+- Selecione a porta e abra a conexão (EX:COM3).
+- Inicie a aquisição de dados e de start no processo de reflow
+- Aguarde o Buzzer sinalizar, abra o forno e espere esfriar.
 
 # Funcionalidades interface
 
